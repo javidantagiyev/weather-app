@@ -6,9 +6,7 @@ To run this application, you need to install some external Python modules. For t
 
   pip install sys
   -
-  
   pip install requests
   -
-  
   pip install PyQt5
   -
